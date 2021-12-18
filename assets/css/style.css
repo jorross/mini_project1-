@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: lightpink;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+h1 {
+    color: darkblue;
+}
+
+li {
+    display: inline;
+    position: relative;
+    margin: 20px;
+}
+
+.contact {
+    position: relative;
+    bottom: 50px;
+    background: green;
+}
